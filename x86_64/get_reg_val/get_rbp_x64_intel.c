@@ -3,12 +3,13 @@
 void fun(int arg)
 {
    long rbp;
-   asm("movq %%rbp, %0  \n\t":"=r"(rbp));
+   asm("movq %0, rbp":"=r"(rbp));
 
    printf("asm rbp:[%#x]\n",rbp);
-   printf("arg rbp:[%#x]\n",(&arg));
-   /*asm rbp:[0x610f4f40]
-	 arg rbp:[0x610f4f2c]*/
+   printf("arg rbp:[%#x]\n",(&arg+5));
+   /*
+        asm rbp:[0xaca90e50]
+arg rbp:[0xaca90e50]*/
 }
  
 int main()
