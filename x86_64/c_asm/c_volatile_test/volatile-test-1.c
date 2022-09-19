@@ -1,6 +1,6 @@
 /* artificiaI device registers */
-unsigned char recv;
-unsigned char send;
+volatile unsigned char recv;
+volatile unsigned char send;
 
 /* memory buffer */
 unsigned char buf[3];

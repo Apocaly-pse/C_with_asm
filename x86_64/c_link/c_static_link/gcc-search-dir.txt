@@ -1,0 +1,24 @@
+install
+ /usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/
+programs
+ =/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../x86_64-pc-linux-gnu/bin/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../x86_64-pc-linux-gnu/bin/
+libraries
+ =/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../x86_64-pc-linux-gnu/lib/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../x86_64-pc-linux-gnu/lib/../lib/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../lib/
+/lib/x86_64-pc-linux-gnu/12.2.0/
+/lib/../lib/
+/usr/lib/x86_64-pc-linux-gnu/12.2.0/
+/usr/lib/../lib/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../../x86_64-pc-linux-gnu/lib/
+/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.0/../../../
+/lib/
+/usr/lib/
