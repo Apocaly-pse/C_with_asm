@@ -1,6 +1,7 @@
 # C_with_asm
 
-Learn C Language with ASM code, include X86_64 and ARM.
+Learn C Language with ASM code, arch:x86_64.
+Also include System Call, Static and dynamic link, Symbol, Libary...
 
 
 
